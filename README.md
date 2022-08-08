@@ -23,6 +23,6 @@ Klike sou bouton 'fork' la (anlè anlè adwat), fè adisyon ou yo nan 'pwòp vè
 
 ---
 
-(Modèl pouw aajoute mo a)
+(Modèl pouw ajoute mo a)
 ### Tit -
 Kontni
